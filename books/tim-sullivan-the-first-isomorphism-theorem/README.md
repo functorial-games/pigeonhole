@@ -22,61 +22,61 @@ Link-only. No explicit redistribution license for the PDF was established in thi
 
 Sullivan starts with sets rather than groups.
 
-Let (C) be a set of cows and (M) a set of markets. A function
-[
+Let \(C\) be a set of cows and \(M\) a set of markets. A function
+\[
 f:C\to M
-]
+\]
 assigns each cow its destination.
 
-Instead of sending cows one at a time, group cows that share a destination into pens. For a market (m), its pen is the fiber
-[
+Instead of sending cows one at a time, group cows that share a destination into pens. For a market \(m\), its pen is the fiber
+\[
 f^{-1}(m)=\{c\in C:f(c)=m\}.
-]
+\]
 
-Discard empty markets for the moment and let (P) be the set of nonempty pens. Then the original map factors as
+Discard empty markets for the moment and let \(P\) be the set of nonempty pens. Then the original map factors as
 
-[
+\[
 C\xrightarrow{\pi}P\xrightarrow{\bar f}f(C)\xrightarrow{i}M,
-]
+\]
 
 where:
 
-- (pi) sends a cow to its pen and is surjective;
-- (ar f) sends a pen to its market and is bijective;
-- (i) includes the used markets (f(C)) into (M) and is injective.
+- \(\pi\) sends a cow to its pen and is surjective;
+- \(\bar f\) sends a pen to its market and is bijective;
+- \(i\) includes the used markets \(f(C)\) into \(M\) and is injective.
 
 The core statement is therefore
-[
+\[
 P\cong f(C).
-]
+\]
 
-Equivalently, define (c_1\sim c_2) iff (f(c_1)=f(c_2)). Then
-[
+Equivalently, define \(c_1\sim c_2\) iff \(f(c_1)=f(c_2)\). Then
+\[
 C/{\sim}\cong f(C).
-]
+\]
 
 This is already the first isomorphism theorem for **sets**.
 
 The algebraic theorem has the same geometry. A homomorphism identifies source elements that differ by something in its kernel; quotienting by that indistinguishability produces something isomorphic to the image.
 
-For a group homomorphism (arphi:G\to H),
-[
+For a group homomorphism \(\varphi:G\to H\),
+\[
 G/\ker\varphi\cong\operatorname{im}\varphi.
-]
+\]
 
-For a linear map (T:V\to W),
-[
+For a linear map \(T:V\to W\),
+\[
 V/\ker T\cong\operatorname{im}T.
-]
+\]
 
 In finite-dimensional linear algebra, taking dimensions gives rank-nullity:
-[
+\[
 \dim V
 =
 \dim\ker T
 +
 \dim\operatorname{im}T.
-]
+\]
 
 So the same picture runs:
 
