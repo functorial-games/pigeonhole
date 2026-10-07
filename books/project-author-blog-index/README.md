@@ -165,7 +165,57 @@ Use for:
 - group-action constraints;
 - image/orbit membership as gameplay.
 
+## Homology / exactness posts
+
+### Homology for Normal Humans — 30 Aug 2015
+https://isomorphismes.tumblr.com/post/127950269154/graded-chain-complex-of-a-simplex-homology
+
+Dedicated full-recall note:
+[../project-author-homology-for-normal-humans/README.md](../project-author-homology-for-normal-humans/README.md)
+
+Use for:
+- graded chain complexes from a triangular pyramid;
+- boundary maps;
+- \(\partial^2=0\);
+- kernels and non-exact sequences;
+- quotienting and resolutions;
+- direct bridge into homological algebra.
+
+### What is “a” homology “theory”? — 2023
+Original permalink not yet recovered from the current public index.
+
+Archive mirror:
+https://rssamplifier.com/isomorphismes-tumblr-com
+
+Use for:
+- simplicial homology as a chain-complex-producing machine;
+- comparing multiple homology/cohomology theories;
+- the boundary map as the distinguishing datum;
+- filtered-complex language appearing explicitly in the older project-author exposition.
+
+### Multimaps — 14 Jan 2023
+Original permalink not yet recovered from the current public index.
+
+Archive mirror:
+https://rssamplifier.com/isomorphismes-tumblr-com
+
+Use for:
+- preimages as collections of objects over one target;
+- kernels as a special fiber;
+- tangent spaces and bundle projections;
+- \(\pi:E\to B\) as the direction that makes the fiber over a base point visible.
+
+**Technical note:** the archived post says that an ordinary function \(A\to B\) forces \(B\) to be no larger than \(A\). That restriction applies to a **surjective** finite-set function, not to an arbitrary function. An arbitrary function only requires each source element to have exactly one image.
+
 ## Additional nearby posts worth retaining
+
+### Drama in ƒ: ℤ₂×ℤ₂→{0,1} — 14 Apr 2011
+https://isomorphismes.tumblr.com/post/4610861008/drama
+
+Potential use:
+- relations as maps to a Boolean codomain;
+- asymmetry encoded by ordered pairs;
+- very small finite-state relation games.
 
 ### Noncommutative & irreducible — 10 Feb 2013
 https://isomorphismes.tumblr.com/post/42815033004/irreducible-complexity-cohomology-algebraic-topology
