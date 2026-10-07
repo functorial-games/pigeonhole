@@ -27,21 +27,21 @@ It covers:
 The exact-couple construction is particularly important.
 
 An exact couple consists schematically of
-[
+\[
 D\xrightarrow{i}D\xrightarrow{j}E\xrightarrow{k}D
-]
+\]
 with exactness at every corner. The composite
-[
+\[
 d=jk:E\to E
-]
-satisfies (d^2=0). Taking homology produces a **derived exact couple**, and repeating produces the pages (E_r).
+\]
+satisfies \(d^2=0\). Taking homology produces a **derived exact couple**, and repeating produces the pages \(E_r\).
 
 So one can view a spectral sequence as a self-renewing exactness machine.
 
 For filtered complexes, May relates this to
-[
+\[
 0\to F_{p-1}A\to F_pA\to F_pA/F_{p-1}A\to0,
-]
+\]
 whose long exact homology sequences fit together into the exact couple.
 
 This is the cleanest formal bridge from Vakil's long/exact-sequence pictures to a genuine spectral sequence.
