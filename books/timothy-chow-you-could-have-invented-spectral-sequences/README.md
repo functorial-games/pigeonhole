@@ -19,29 +19,29 @@ Link-only here. The AMS hosts the article; no repository-level redistribution pe
 Chow's complaint is pedagogical: spectral sequences often appear as an already-finished machine with many indices. That hides why anyone would invent them.
 
 He starts with a chain complex that would be easy if it were genuinely graded:
-[
+\[
 C_d=\bigoplus_p C_{d,p}
-]
-with the boundary preserving (p).
+\]
+with the boundary preserving \(p\).
 
 A filtration is the weaker structure
-[
+\[
 0=C_{d,0}\subseteq C_{d,1}\subseteq\cdots\subseteq C_{d,n}=C_d.
-]
+\]
 
 Pass first to the associated graded pieces
-[
+\[
 E^0_{d,p}=C_{d,p}/C_{d,p-1}.
-]
+\]
 
 This throws away how the levels interact. Taking homology gives a first approximation, but it is wrong exactly because boundaries can move between filtration levels.
 
 The correction is itself homological: define a new differential on the first approximation, take homology again, and repeat.
 
 That recursion is the spectral sequence:
-[
+\[
 E^{r+1}=H(E^r,d_r).
-]
+\]
 
 So the pages are not arbitrary layers of formalism. Each page repairs information lost by the previous coarse approximation.
 
