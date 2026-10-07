@@ -5,14 +5,14 @@ This is a link-first survey. Full texts are not mirrored unless redistribution p
 ## One conceptual sentence
 
 A spectral sequence repeatedly takes homology of successive approximations to a filtered or bigraded object, producing pages
-[
+\[
 (E_r,d_r)
-]
+\]
 with
-[
+\[
 E_{r+1}\cong H(E_r,d_r),
-]
-and, under suitable convergence hypotheses, the stable page (E_\infty) gives the associated graded pieces of the object one wanted to compute.
+\]
+and, under suitable convergence hypotheses, the stable page \(E_\infty\) gives the associated graded pieces of the object one wanted to compute.
 
 A long exact sequence is the right warm-up because a filtration with only a small number of stages already produces exact-sequence bookkeeping. Spectral sequences are what happens when that staged bookkeeping keeps going.
 
@@ -175,7 +175,7 @@ These are commercial books unless an author/publisher supplies an explicitly red
 
 The useful conceptual ladder for this game is:
 
-[
+\[
 \text{pigeonhole}
 \to
 \text{fibers}
@@ -191,6 +191,6 @@ The useful conceptual ladder for this game is:
 \text{successive pages}
 \to
 E_\infty.
-]
+\]
 
 The point is not to make a “spectral sequence simulator” first. The point is to preserve one interactional idea as the objects become richer.
