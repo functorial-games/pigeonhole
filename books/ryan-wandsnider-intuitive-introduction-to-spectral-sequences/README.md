@@ -21,15 +21,15 @@ Major stages:
 1. review chain complexes and homology;
 2. describe the page/differential picture;
 3. introduce the Serre spectral sequence of a fibration;
-4. compute (H_*(\mathbf{CP}^\infty)) in an intuition-first way;
+4. compute \(H_*(\mathbf{CP}^\infty)\) in an intuition-first way;
 5. give formal definitions;
 6. derive spectral sequences from filtrations and exact couples;
 7. return to Serre formally;
-8. compute further examples such as loop-space homology and the cohomology ring of (\mathbf{CP}^\infty).
+8. compute further examples such as loop-space homology and the cohomology ring of \(\mathbf{CP}^\infty\).
 
 For this project, the useful feature is the order of explanation: **use first, formalize second**.
 
-That matches the intended game progression. The player should first experience repeated elimination/constraint propagation and only later be told that the bookkeeping can be named (E_2,E_3,\ldots).
+That matches the intended game progression. The player should first experience repeated elimination/constraint propagation and only later be told that the bookkeeping can be named \(E_2,E_3,\ldots\).
 
 ## Bibliography in Wandsnider
 
