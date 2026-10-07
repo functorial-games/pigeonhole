@@ -14,7 +14,7 @@ Link-only. Public author-hosted PDF; no redistribution license was assumed.
 
 Vakil deliberately teaches a special case: first-quadrant double complexes.
 
-Start with objects (E^{p,q}) and two anticommuting differentials, one horizontal and one vertical. The total differential is their sum.
+Start with objects \(E^{p,q}\) and two anticommuting differentials, one horizontal and one vertical. The total differential is their sum.
 
 A spectral sequence can start by taking homology in one direction. The surviving classes inherit a differential in the other direction. Taking homology again produces another page. Later differentials come from longer zig-zags through the double complex.
 
