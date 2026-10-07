@@ -16,7 +16,7 @@ Link-only. The work is publicly hosted with Vakil's permission, but no general r
 
 The project needs the transition
 
-[
+\[
 \text{fibers / quotienting}
 \longrightarrow
 \text{exactness}
@@ -24,22 +24,22 @@ The project needs the transition
 \text{long exact sequences}
 \longrightarrow
 \text{spectral sequences}
-]
+\]
 
 to remain visual.
 
 Vakil's picturebook does that with diagrams rather than asking the reader to begin with a wall of notation.
 
 The central algebraic condition for an exact sequence
-[
+\[
 \cdots\to A\xrightarrow{f}B\xrightarrow{g}C\to\cdots
-]
+\]
 is
-[
+\[
 \operatorname{im}f=\ker g.
-]
+\]
 
-So everything that arrives in (B) from the left is exactly everything that is killed when moving right.
+So everything that arrives in \(B\) from the left is exactly everything that is killed when moving right.
 
 This is already closely related to the pigeonhole/fiber picture:
 
