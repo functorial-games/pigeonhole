@@ -17,6 +17,11 @@ This is the consolidated bibliography for the current books shelf. Individual so
 - Project-author, “Category Theory,” 20 May 2010, later amended: https://isomorphismes.tumblr.com/post/615614573/category-theory
 - Project-author, “Do numbers exist?”: https://www.tumblr.com/isomorphismes/2765079179/tesseract
 - Project-author fibration/topology archive, including “What is a fibration?” (18 Mar. 2013): https://isomorphismes.wordpress.com/tag/topology/
+- Project-author, “Adding Modes,” 2 Oct. 2012: https://isomorphismes.tumblr.com/post/32778426504/adding-modes
+- Project-author, “∂ Campbell’s,” 11 Apr. 2013, preserved in the topology archive: https://isomorphismes.wordpress.com/tag/topology/
+- Project-author, Rubik’s-cube post, 14 Sep. 2010: https://isomorphismes.tumblr.com/post/1120517680/rubik
+- Project-author, Mirzakhani/moduli-space notes: https://isomorphismes.tumblr.com/post/124421978549/maryam-mirzakhani-dynamics-on-moduli-spaces-of
+- Project-author, jets/bundles/maps pictorial glossary, 27 May 2014: https://isomorphismes.tumblr.com/post/87048023784/a-jet-can-be-thought-of-as-the-infinitesimal-germ
 - Project-author computational-homology archive, including “nerves of cell complexes” (17 May 2012): https://isomorphismes.wordpress.com/tag/computational-homology/
 
 ## Exact sequences
@@ -72,6 +77,12 @@ This is the consolidated bibliography for the current books shelf. Individual so
 - John W. Milnor, *Topology from the Differentiable Viewpoint*.
 - David A. Edwards and Marilyn L. Edwards, category-theoretic expository material linked in the project-author archive.
 - Matt Hogancamp, for the functorial-embedding example recalled in the amended Category Theory post.
+- Karen Kafadar, for the time-series decomposition example recalled in “Adding Modes.”
+- György Marx, quoted in the Rubik’s-cube post.
+- Solomon Golomb, named in the Rubik’s-cube structural analogy.
+- Ernő Rubik, inventor of the cube used as the reachable-state example.
+- Maryam Mirzakhani and Alexander Eskin, for the moduli-space/dynamics material linked in the archive.
+- Michael Bächtold, David Corfield, and Urs Schreiber, for the jet/bundle description quoted in the pictorial glossary.
 
 ## Living references
 
@@ -82,6 +93,6 @@ This is the consolidated bibliography for the current books shelf. Individual so
 
 ## Thanks
 
-Thank you to **Tim Sullivan, John Baez, James Dolan, Douglas Hofstadter, W. V. O. Quine, Smeet Bhatt, Daniel McLaury, Steve Easterbrook, F. William Lawvere, John W. Milnor, David A. Edwards, Marilyn L. Edwards, Matt Hogancamp, Ravi Vakil, Grant Sanderson, Timothy Y. Chow, Michael Hutchings, J. Peter May, Ryan Wandsnider, Allen Hatcher, Niles Johnson, Eric Peterson, Barry Mitchell, John McCleary, William S. Massey, Jean-Pierre Serre, J. Michael Boardman, Raoul Bott, Loring W. Tu, David Eisenbud, Phillip Griffiths, Joseph Harris, Saunders Mac Lane, Robert Mosher, Martin Tangora, Paul Selick, Charles A. Weibel, Phil Hanlon, William Huebsch, James Munkres, Reuben Stern, Man Cheung, Yao-Rui, Michael Atiyah, Friedrich Hirzebruch, J. Frank Adams, Art Duval, Yutao Liu**, and the contributors to **The Stacks Project** and **nLab**.
+Thank you to **Tim Sullivan, John Baez, James Dolan, Douglas Hofstadter, W. V. O. Quine, Smeet Bhatt, Daniel McLaury, Steve Easterbrook, F. William Lawvere, John W. Milnor, David A. Edwards, Marilyn L. Edwards, Matt Hogancamp, Karen Kafadar, György Marx, Solomon Golomb, Ernő Rubik, Maryam Mirzakhani, Alexander Eskin, Michael Bächtold, David Corfield, Urs Schreiber, Ravi Vakil, Grant Sanderson, Timothy Y. Chow, Michael Hutchings, J. Peter May, Ryan Wandsnider, Allen Hatcher, Niles Johnson, Eric Peterson, Barry Mitchell, John McCleary, William S. Massey, Jean-Pierre Serre, J. Michael Boardman, Raoul Bott, Loring W. Tu, David Eisenbud, Phillip Griffiths, Joseph Harris, Saunders Mac Lane, Robert Mosher, Martin Tangora, Paul Selick, Charles A. Weibel, Phil Hanlon, William Huebsch, James Munkres, Reuben Stern, Man Cheung, Yao-Rui, Michael Atiyah, Friedrich Hirzebruch, J. Frank Adams, Art Duval, Yutao Liu**, and the contributors to **The Stacks Project** and **nLab**.
 
 The point of this acknowledgment is literal: the repository should retain the intellectual trail rather than stripping a source down to one headline author.
