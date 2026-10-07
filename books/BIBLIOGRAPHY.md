@@ -11,6 +11,13 @@ This is the consolidated bibliography for the current books shelf. Individual so
 - Project-author archive, “going the long way,” 4 Jan. 2013: https://isomorphismes.wordpress.com/2013/01/04/go-around-it/
 - Project-author archive, “Automorphisms,” 10 Mar. 2013: https://isomorphismes.wordpress.com/2013/03/10/automorphisms/
 - Project-author Tumblr post pointing to Baez–Dolan: https://isomorphismes.tumblr.com/post/30269880365/why-simple-equality-isomorphism
+- Project-author, “What is a ‘structure-preserving’ map?”, 19 Oct. 2012: https://isomorphismes.tumblr.com/post/33909584057/the-same-like-how
+- Project-author, “Rank-Nullity Theorem,” 25 Mar. 2014: https://isomorphismes.tumblr.com/post/80742382617/rank-nullity-theorem
+- Project-author, “A functor maps dots and arrows…”, 12 Mar. 2011: https://isomorphismes.tumblr.com/post/3812125141/functor
+- Project-author, “Category Theory,” 20 May 2010, later amended: https://isomorphismes.tumblr.com/post/615614573/category-theory
+- Project-author, “Do numbers exist?”: https://www.tumblr.com/isomorphismes/2765079179/tesseract
+- Project-author fibration/topology archive, including “What is a fibration?” (18 Mar. 2013): https://isomorphismes.wordpress.com/tag/topology/
+- Project-author computational-homology archive, including “nerves of cell complexes” (17 May 2012): https://isomorphismes.wordpress.com/tag/computational-homology/
 
 ## Exact sequences
 
@@ -57,6 +64,14 @@ This is the consolidated bibliography for the current books shelf. Individual so
 - James Munkres, *Topology: A First Course*.
 - Reuben Stern, *Homological Algebra of Spectral Sequences* (2017).
 - Man Cheung and Yao-Rui, *Examples of Spectral Sequences* (2019).
+- W. V. O. Quine, for the equivalence-class conception of counting numbers cited in the project-author archive.
+- Smeet Bhatt, whose question prompted the project-author structure-preserving-map exposition.
+- Daniel McLaury, for the category-specific list of homomorphism/isomorphism notions quoted in that exposition.
+- Steve Easterbrook, category-theory tutorial cited in the project-author Category Theory post.
+- F. William Lawvere, whose category/functor viewpoint recurs throughout the project-author archive.
+- John W. Milnor, *Topology from the Differentiable Viewpoint*.
+- David A. Edwards and Marilyn L. Edwards, category-theoretic expository material linked in the project-author archive.
+- Matt Hogancamp, for the functorial-embedding example recalled in the amended Category Theory post.
 
 ## Living references
 
@@ -67,6 +82,6 @@ This is the consolidated bibliography for the current books shelf. Individual so
 
 ## Thanks
 
-Thank you to **Tim Sullivan, John Baez, James Dolan, Douglas Hofstadter, Ravi Vakil, Grant Sanderson, Timothy Y. Chow, Michael Hutchings, J. Peter May, Ryan Wandsnider, Allen Hatcher, Niles Johnson, Eric Peterson, Barry Mitchell, John McCleary, William S. Massey, Jean-Pierre Serre, J. Michael Boardman, Raoul Bott, Loring W. Tu, David Eisenbud, Phillip Griffiths, Joseph Harris, Saunders Mac Lane, Robert Mosher, Martin Tangora, Paul Selick, Charles A. Weibel, Phil Hanlon, William Huebsch, James Munkres, Reuben Stern, Man Cheung, Yao-Rui, Michael Atiyah, Friedrich Hirzebruch, J. Frank Adams, Art Duval, Yutao Liu**, and the contributors to **The Stacks Project** and **nLab**.
+Thank you to **Tim Sullivan, John Baez, James Dolan, Douglas Hofstadter, W. V. O. Quine, Smeet Bhatt, Daniel McLaury, Steve Easterbrook, F. William Lawvere, John W. Milnor, David A. Edwards, Marilyn L. Edwards, Matt Hogancamp, Ravi Vakil, Grant Sanderson, Timothy Y. Chow, Michael Hutchings, J. Peter May, Ryan Wandsnider, Allen Hatcher, Niles Johnson, Eric Peterson, Barry Mitchell, John McCleary, William S. Massey, Jean-Pierre Serre, J. Michael Boardman, Raoul Bott, Loring W. Tu, David Eisenbud, Phillip Griffiths, Joseph Harris, Saunders Mac Lane, Robert Mosher, Martin Tangora, Paul Selick, Charles A. Weibel, Phil Hanlon, William Huebsch, James Munkres, Reuben Stern, Man Cheung, Yao-Rui, Michael Atiyah, Friedrich Hirzebruch, J. Frank Adams, Art Duval, Yutao Liu**, and the contributors to **The Stacks Project** and **nLab**.
 
 The point of this acknowledgment is literal: the repository should retain the intellectual trail rather than stripping a source down to one headline author.
