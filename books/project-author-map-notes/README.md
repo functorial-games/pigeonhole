@@ -65,11 +65,17 @@ https://isomorphismes.tumblr.com/post/19299303484/hofstadter-writing
 
 This older note is part of the same expositional preference: do not make abstraction harder by refusing concrete objects. Sullivan's cows are useful precisely because the concrete story carries the correct abstract structure.
 
-## Rank-nullity search status
+## 6. Rank-nullity theorem — recovered
 
-A post explicitly identifiable as the project's own “rank-nullity theorem” excerpt has **not yet been positively recovered** from the public archive/search index. Do not invent a permalink.
+The missing post has now been positively identified:
 
-The mathematical connection is nevertheless direct:
+https://isomorphismes.tumblr.com/post/80742382617/rank-nullity-theorem
+
+Dedicated full-recall note:
+
+[../project-author-rank-nullity/README.md](../project-author-rank-nullity/README.md)
+
+The mathematical connection is direct:
 
 For a finite-dimensional linear map \(T:V\to W\),
 \[
@@ -87,3 +93,13 @@ So rank-nullity is the dimension-counting shadow of the same quotient/image fact
 Thank you to **Tim Sullivan**, **Douglas Hofstadter**, **John Baez**, and **James Dolan**, whose work is explicitly linked in this trail.
 
 The remaining prose and older project posts are by the project author and are preserved here as historical design context rather than as external authorities.
+
+
+## 7. Additional recovered project-author threads
+
+- [Structure-preserving maps](../project-author-structure-preserving-maps/README.md)
+- [Functoriality, collapsing networks, and spinning holes](../project-author-functoriality-and-spinning/README.md)
+- [Fibers, coverings, and homology](../project-author-fibers-coverings-homology/README.md)
+- [Finite sets, counting, and equivalence classes](../project-author-finite-sets-counting-equivalence/README.md)
+
+These make the old archive substantially more relevant to the present game than the first search suggested.
