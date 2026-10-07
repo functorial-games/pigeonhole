@@ -15,6 +15,8 @@ For each substantial source:
 
 No unofficial commercial-book mirrors belong here.
 
+Consolidated references and thanks: [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md).
+
 ## Reading path
 
 1. [Finite maps, pigeonholes, injectivity and surjectivity](finite-maps-and-pigeonhole/README.md)
