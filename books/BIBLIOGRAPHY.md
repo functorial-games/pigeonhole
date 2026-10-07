@@ -23,6 +23,10 @@ This is the consolidated bibliography for the current books shelf. Individual so
 - Project-author, Mirzakhani/moduli-space notes: https://isomorphismes.tumblr.com/post/124421978549/maryam-mirzakhani-dynamics-on-moduli-spaces-of
 - Project-author, jets/bundles/maps pictorial glossary, 27 May 2014: https://isomorphismes.tumblr.com/post/87048023784/a-jet-can-be-thought-of-as-the-infinitesimal-germ
 - Project-author computational-homology archive, including “nerves of cell complexes” (17 May 2012): https://isomorphismes.wordpress.com/tag/computational-homology/
+- Project-author, “Homology for Normal Humans,” 30 Aug. 2015: https://isomorphismes.tumblr.com/post/127950269154/graded-chain-complex-of-a-simplex-homology
+- Project-author, “Drama in ƒ: ℤ₂×ℤ₂→{0,1},” 14 Apr. 2011: https://isomorphismes.tumblr.com/post/4610861008/drama
+- Project-author, “Multimaps,” 14 Jan. 2023; original permalink not recovered in this pass, preserved by RSS Amplifier: https://rssamplifier.com/isomorphismes-tumblr-com
+- Project-author, “What is ‘a’ homology ‘theory’?”, 2023; original permalink not recovered in this pass, preserved by RSS Amplifier: https://rssamplifier.com/isomorphismes-tumblr-com
 
 ## Exact sequences
 
@@ -77,6 +81,7 @@ This is the consolidated bibliography for the current books shelf. Individual so
 - John W. Milnor, *Topology from the Differentiable Viewpoint*.
 - David A. Edwards and Marilyn L. Edwards, category-theoretic expository material linked in the project-author archive.
 - Matt Hogancamp, for the functorial-embedding example recalled in the amended Category Theory post.
+- Samuel Eilenberg, for the chain-complex and homological-algebra tradition explicitly invoked in “Homology for Normal Humans.”
 - Karen Kafadar, for the time-series decomposition example recalled in “Adding Modes.”
 - György Marx, quoted in the Rubik’s-cube post.
 - Solomon Golomb, named in the Rubik’s-cube structural analogy.
@@ -93,6 +98,6 @@ This is the consolidated bibliography for the current books shelf. Individual so
 
 ## Thanks
 
-Thank you to **Tim Sullivan, John Baez, James Dolan, Douglas Hofstadter, W. V. O. Quine, Smeet Bhatt, Daniel McLaury, Steve Easterbrook, F. William Lawvere, John W. Milnor, David A. Edwards, Marilyn L. Edwards, Matt Hogancamp, Karen Kafadar, György Marx, Solomon Golomb, Ernő Rubik, Maryam Mirzakhani, Alexander Eskin, Michael Bächtold, David Corfield, Urs Schreiber, Ravi Vakil, Grant Sanderson, Timothy Y. Chow, Michael Hutchings, J. Peter May, Ryan Wandsnider, Allen Hatcher, Niles Johnson, Eric Peterson, Barry Mitchell, John McCleary, William S. Massey, Jean-Pierre Serre, J. Michael Boardman, Raoul Bott, Loring W. Tu, David Eisenbud, Phillip Griffiths, Joseph Harris, Saunders Mac Lane, Robert Mosher, Martin Tangora, Paul Selick, Charles A. Weibel, Phil Hanlon, William Huebsch, James Munkres, Reuben Stern, Man Cheung, Yao-Rui, Michael Atiyah, Friedrich Hirzebruch, J. Frank Adams, Art Duval, Yutao Liu**, and the contributors to **The Stacks Project** and **nLab**.
+Thank you to **Tim Sullivan, John Baez, James Dolan, Douglas Hofstadter, W. V. O. Quine, Smeet Bhatt, Daniel McLaury, Steve Easterbrook, F. William Lawvere, John W. Milnor, David A. Edwards, Marilyn L. Edwards, Matt Hogancamp, Samuel Eilenberg, Karen Kafadar, György Marx, Solomon Golomb, Ernő Rubik, Maryam Mirzakhani, Alexander Eskin, Michael Bächtold, David Corfield, Urs Schreiber, Ravi Vakil, Grant Sanderson, Timothy Y. Chow, Michael Hutchings, J. Peter May, Ryan Wandsnider, Allen Hatcher, Niles Johnson, Eric Peterson, Barry Mitchell, John McCleary, William S. Massey, Jean-Pierre Serre, J. Michael Boardman, Raoul Bott, Loring W. Tu, David Eisenbud, Phillip Griffiths, Joseph Harris, Saunders Mac Lane, Robert Mosher, Martin Tangora, Paul Selick, Charles A. Weibel, Phil Hanlon, William Huebsch, James Munkres, Reuben Stern, Man Cheung, Yao-Rui, Michael Atiyah, Friedrich Hirzebruch, J. Frank Adams, Art Duval, Yutao Liu**, and the contributors to **The Stacks Project** and **nLab**.
 
 The point of this acknowledgment is literal: the repository should retain the intellectual trail rather than stripping a source down to one headline author.
