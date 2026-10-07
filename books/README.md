@@ -26,19 +26,21 @@ Consolidated references and thanks: [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md).
 5. [Project-author: functoriality and spinning holes](project-author-functoriality-and-spinning/README.md)
 6. [Project-author: fibers, coverings and homology](project-author-fibers-coverings-homology/README.md)
 7. [Project-author: finite sets, counting and equivalence](project-author-finite-sets-counting-equivalence/README.md)
-8. [Tim Sullivan - *The First Isomorphism Theorem*](tim-sullivan-the-first-isomorphism-theorem/README.md)
-9. [Ravi Vakil - *Puzzling through exact sequences*](ravi-vakil-puzzling-through-exact-sequences/README.md)
-10. [Spectral-sequence reading map](spectral-sequences/README.md)
-11. [Timothy Y. Chow - *You Could Have Invented Spectral Sequences*](timothy-chow-you-could-have-invented-spectral-sequences/README.md)
-12. [Michael Hutchings - *Introduction to spectral sequences*](michael-hutchings-introduction-to-spectral-sequences/README.md)
-13. [J. Peter May - *A Primer on Spectral Sequences*](j-p-may-primer-on-spectral-sequences/README.md)
-14. [Ravi Vakil - *Spectral Sequences: Friend or Foe?*](ravi-vakil-spectral-sequences-friend-or-foe/README.md)
-15. [Ryan Wandsnider - *An Intuitive Introduction to Spectral Sequences*](ryan-wandsnider-intuitive-introduction-to-spectral-sequences/README.md)
-16. [Allen Hatcher - Chapter 5: Spectral Sequences](allen-hatcher-chapter-5-spectral-sequences/README.md)
-17. [Niles Johnson - *Constructing Spectral Sequences*](niles-johnson-constructing-spectral-sequences/README.md)
-18. [Eric Peterson - *Spectral sequences on one blackboard*](eric-peterson-spectral-sequences-one-blackboard/README.md)
+8. [Project-author: intermediate game vocabulary](project-author-intermediate-game-vocabulary/README.md)
+9. [Project-author: curated blog index](project-author-blog-index/README.md)
+10. [Tim Sullivan - *The First Isomorphism Theorem*](tim-sullivan-the-first-isomorphism-theorem/README.md)
+11. [Ravi Vakil - *Puzzling through exact sequences*](ravi-vakil-puzzling-through-exact-sequences/README.md)
+12. [Spectral-sequence reading map](spectral-sequences/README.md)
+13. [Timothy Y. Chow - *You Could Have Invented Spectral Sequences*](timothy-chow-you-could-have-invented-spectral-sequences/README.md)
+14. [Michael Hutchings - *Introduction to spectral sequences*](michael-hutchings-introduction-to-spectral-sequences/README.md)
+15. [J. Peter May - *A Primer on Spectral Sequences*](j-p-may-primer-on-spectral-sequences/README.md)
+16. [Ravi Vakil - *Spectral Sequences: Friend or Foe?*](ravi-vakil-spectral-sequences-friend-or-foe/README.md)
+17. [Ryan Wandsnider - *An Intuitive Introduction to Spectral Sequences*](ryan-wandsnider-intuitive-introduction-to-spectral-sequences/README.md)
+18. [Allen Hatcher - Chapter 5: Spectral Sequences](allen-hatcher-chapter-5-spectral-sequences/README.md)
+19. [Niles Johnson - *Constructing Spectral Sequences*](niles-johnson-constructing-spectral-sequences/README.md)
+20. [Eric Peterson - *Spectral sequences on one blackboard*](eric-peterson-spectral-sequences-one-blackboard/README.md)
 
-The game mechanics should grow out of the first nine items before the project tries to literalize spectral-sequence pages.
+The game mechanics should grow out of the first eleven items before the project tries to literalize spectral-sequence pages.
 
 ## Current conceptual spine
 
