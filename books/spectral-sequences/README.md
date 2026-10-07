@@ -73,6 +73,9 @@ Definitions, exact couples, filtered complexes, products, Serre, comparison, con
 
 https://pi.math.cornell.edu/~hatcher/AT/SSpage.html
 
+Local summary:
+[../allen-hatcher-chapter-5-spectral-sequences/README.md](../allen-hatcher-chapter-5-spectral-sequences/README.md)
+
 About 110 pages centered on the Serre spectral sequence, with Adams and additional topics.
 
 ### The Stacks Project - spectral sequences
@@ -98,11 +101,17 @@ https://ncatlab.org/nlab/show/Introduction%2Bto%2BSpectral%2BSequences
 
 https://nilesjohnson.net/ss-construction.html
 
+Local summary:
+[../niles-johnson-constructing-spectral-sequences/README.md](../niles-johnson-constructing-spectral-sequences/README.md)
+
 A visual aid for the filtered-chain-complex construction, explicitly meant to make the indexing/subquotient construction easier to see.
 
-### Chromotopy - *Spectral sequences on one blackboard*
+### Eric Peterson / Chromotopy - *Spectral sequences on one blackboard*
 
 https://chromotopy.org/blog/spectral-sequences-on-one-blackboard
+
+Local summary:
+[../eric-peterson-spectral-sequences-one-blackboard/README.md](../eric-peterson-spectral-sequences-one-blackboard/README.md)
 
 A compact filtration-first visual account: successive long exact sequences produce the pages and higher differentials.
 
